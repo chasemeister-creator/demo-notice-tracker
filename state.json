@@ -1,12 +1,4 @@
 {
- "2025-11128": {
-  "agency_names": "Environmental Protection Agency",
-  "document_number": "2025-11128",
-  "html_url": "https://www.federalregister.gov/documents/2025/06/17/2025-11128/renewable-fuel-standard-rfs-program-standards-for-2026-and-2027-partial-waiver-of-2025-cellulosic",
-  "publication_date": "2025-06-17",
-  "title": "Renewable Fuel Standard (RFS) Program: Standards for 2026 and 2027, Partial Waiver of 2025 Cellulosic Biofuel Volume Requirement, and Other Changes",
-  "type": "Proposed Rule"
- },
  "2025-11373": {
   "agency_names": "Environmental Protection Agency",
   "document_number": "2025-11373",
@@ -798,5 +790,13 @@
   "publication_date": "2026-09-09",
   "title": "Airworthiness Directives; Airbus SAS Airplanes",
   "type": "Proposed Rule"
+ },
+ "2026-19071": {
+  "agency_names": "Environmental Protection Agency",
+  "document_number": "2026-19071",
+  "html_url": "https://www.federalregister.gov/documents/2026/09/17/2026-19071/partial-repeal-of-the-carbon-pollution-standards-for-fossil-fuel-fired-electric-generating-units",
+  "publication_date": "2026-09-17",
+  "title": "Partial Repeal of the Carbon Pollution Standards for Fossil Fuel-Fired Electric Generating Units",
+  "type": "Rule"
  }
 }
