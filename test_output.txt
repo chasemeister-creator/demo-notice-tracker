@@ -1,0 +1,33 @@
+test_csv_header_is_the_six_fields_plus_change (test_tracker.CsvShapeTest) ... ok
+test_every_data_row_has_seven_columns_in_header_order (test_tracker.CsvShapeTest) ... ok
+test_a_missing_results_key_is_treated_as_empty (test_tracker.EmptyResultTest) ... ok
+test_empty_result_after_a_populated_run_marks_everything_removed (test_tracker.EmptyResultTest) ... ok
+test_empty_result_on_a_first_run_writes_a_header_only_csv (test_tracker.EmptyResultTest) ... ok
+test_first_run_tags_every_row_new (test_tracker.FirstRunTest) ... ok
+test_first_run_writes_state_keyed_by_document_number (test_tracker.FirstRunTest) ... ok
+test_a_duplicate_does_not_reappear_as_changed_on_the_next_run (test_tracker.KeyUniquenessTest) ... ok
+test_a_repeated_document_number_is_kept_once_first_wins (test_tracker.KeyUniquenessTest) ... ok
+test_a_corrupt_state_file_raises_a_clean_tracker_error (test_tracker.MalformedInputTest) ... ok
+test_a_result_without_a_document_number_raises_a_clean_tracker_error (test_tracker.MalformedInputTest) ... ok
+test_an_http_failure_reports_its_status (test_tracker.MalformedInputTest) ... ok
+test_malformed_json_raises_a_clean_tracker_error (test_tracker.MalformedInputTest) ... ok
+test_results_of_the_wrong_shape_raises_a_clean_tracker_error (test_tracker.MalformedInputTest) ... ok
+test_agency_names_are_joined_and_whitespace_is_collapsed (test_tracker.NormaliseTest) ... ok
+test_missing_optional_fields_become_empty_strings (test_tracker.NormaliseTest) ... ok
+test_document_absent_from_the_fetch_is_tagged_removed_and_keeps_its_values (test_tracker.RemovedTest) ... ok
+test_removed_rows_drop_out_of_the_next_state (test_tracker.RemovedTest) ... ok
+test_a_new_row_beside_an_old_one_is_tagged_new (test_tracker.SecondRunTest) ... ok
+test_changed_publication_date_is_tagged_changed (test_tracker.SecondRunTest) ... ok
+test_changed_title_is_tagged_changed (test_tracker.SecondRunTest) ... ok
+test_identical_second_run_is_all_unchanged (test_tracker.SecondRunTest) ... ok
+test_documents_results_are_not_filtered_again_locally (test_tracker.TermFilterTest) ... ok
+test_public_inspection_results_are_filtered_locally_by_term (test_tracker.TermFilterTest) ... ok
+test_an_unknown_source_or_page_size_is_refused (test_tracker.UrlTest) ... ok
+test_documents_url_carries_the_term_order_and_page_size (test_tracker.UrlTest) ... ok
+test_one_run_makes_exactly_one_request (test_tracker.UrlTest) ... ok
+test_public_inspection_url_is_the_plain_current_feed (test_tracker.UrlTest) ... ok
+
+----------------------------------------------------------------------
+Ran 28 tests in 0.013s
+
+OK

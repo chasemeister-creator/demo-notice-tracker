@@ -1,0 +1,57 @@
+# Demo: run the notices tracker every morning and commit the result.
+#
+# This file is placed for a standalone public repo whose root IS this
+# directory (see README, "Publishing"). Inside the parent monorepo it is
+# inert: GitHub only reads workflows from .github/workflows at the repo root.
+name: notice-tracker
+
+on:
+  schedule:
+    # 07:15 UTC daily. Cron on GitHub Actions is best-effort, not exact.
+    - cron: "15 7 * * *"
+  workflow_dispatch:
+    inputs:
+      term:
+        description: "Search term"
+        default: "heat pump"
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: notice-tracker
+  cancel-in-progress: false
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # No dependencies to install: the tracker is standard library only.
+      - name: Run tests
+        run: python -m unittest -v test_tracker
+
+      - name: Run the tracker
+        run: |
+          python tracker.py \
+            --term "${{ github.event.inputs.term || 'heat pump' }}" \
+            --csv sample_run.csv \
+            --state state.json
+
+      - name: Commit the CSV and state if they changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add sample_run.csv state.json
+          if git diff --cached --quiet; then
+            echo "No change today; nothing to commit."
+          else
+            git commit -m "tracker: $(date -u +%Y-%m-%d) run"
+            git push
+          fi
