@@ -1,20 +1,4 @@
 {
- "2025-11373": {
-  "agency_names": "Environmental Protection Agency",
-  "document_number": "2025-11373",
-  "html_url": "https://www.federalregister.gov/documents/2025/06/20/2025-11373/air-plan-approval-new-york-fuel-composition-and-use",
-  "publication_date": "2025-06-20",
-  "title": "Air Plan Approval; New York; Fuel Composition and Use",
-  "type": "Rule"
- },
- "2025-12326": {
-  "agency_names": "Agriculture Department",
-  "document_number": "2025-12326",
-  "html_url": "https://www.federalregister.gov/documents/2025/07/03/2025-12326/national-environmental-policy-act",
-  "publication_date": "2025-07-03",
-  "title": "National Environmental Policy Act",
-  "type": "Rule"
- },
  "2025-12383": {
   "agency_names": "Energy Department",
   "document_number": "2025-12383",
@@ -798,5 +782,21 @@
   "publication_date": "2026-09-17",
   "title": "Partial Repeal of the Carbon Pollution Standards for Fossil Fuel-Fired Electric Generating Units",
   "type": "Rule"
+ },
+ "2026-19527": {
+  "agency_names": "Commerce Department; Foreign-Trade Zones Board",
+  "document_number": "2026-19527",
+  "html_url": "https://www.federalregister.gov/documents/2026/09/24/2026-19527/foreign-trade-zone-ftz-84-notification-of-proposed-production-activity-enerflex-energy-systems-inc",
+  "publication_date": "2026-09-24",
+  "title": "Foreign-Trade Zone (FTZ) 84, Notification of Proposed Production Activity; Enerflex Energy Systems Inc.; (Natural Gas Equipment); Houston, Texas",
+  "type": "Notice"
+ },
+ "2026-19568": {
+  "agency_names": "Nuclear Regulatory Commission",
+  "document_number": "2026-19568",
+  "html_url": "https://www.federalregister.gov/documents/2026/09/24/2026-19568/regulatory-enhancements-for-reactor-licensing-decommissioning-and-operational-oversight",
+  "publication_date": "2026-09-24",
+  "title": "Regulatory Enhancements for Reactor Licensing, Decommissioning, and Operational Oversight",
+  "type": "Proposed Rule"
  }
 }
