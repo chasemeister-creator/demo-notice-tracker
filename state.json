@@ -1,12 +1,4 @@
 {
- "2025-12383": {
-  "agency_names": "Energy Department",
-  "document_number": "2025-12383",
-  "html_url": "https://www.federalregister.gov/documents/2025/07/03/2025-12383/revision-of-national-environmental-policy-act-implementing-procedures",
-  "publication_date": "2025-07-03",
-  "title": "Revision of National Environmental Policy Act Implementing Procedures",
-  "type": "Rule"
- },
  "2025-12694": {
   "agency_names": "Commerce Department; Foreign-Trade Zones Board",
   "document_number": "2025-12694",
@@ -797,6 +789,14 @@
   "html_url": "https://www.federalregister.gov/documents/2026/09/24/2026-19568/regulatory-enhancements-for-reactor-licensing-decommissioning-and-operational-oversight",
   "publication_date": "2026-09-24",
   "title": "Regulatory Enhancements for Reactor Licensing, Decommissioning, and Operational Oversight",
+  "type": "Proposed Rule"
+ },
+ "2026-19774": {
+  "agency_names": "Environmental Protection Agency",
+  "document_number": "2026-19774",
+  "html_url": "https://www.federalregister.gov/documents/2026/09/28/2026-19774/national-emission-standards-for-hazardous-air-pollutants-for-gasoline-distribution-facilities-and",
+  "publication_date": "2026-09-28",
+  "title": "National Emission Standards for Hazardous Air Pollutants for Gasoline Distribution Facilities and Standards of Performance for Bulk Gasoline Terminals Reconsideration",
   "type": "Proposed Rule"
  }
 }
