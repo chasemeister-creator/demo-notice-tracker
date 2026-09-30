@@ -1,12 +1,4 @@
 {
- "2025-12694": {
-  "agency_names": "Commerce Department; Foreign-Trade Zones Board",
-  "document_number": "2025-12694",
-  "html_url": "https://www.federalregister.gov/documents/2025/07/08/2025-12694/foreign-trade-zone-ftz-38-notification-of-proposed-production-activity-ge-gas-turbines-greenville",
-  "publication_date": "2025-07-08",
-  "title": "Foreign-Trade Zone (FTZ) 38, Notification of Proposed Production Activity; GE Gas Turbines (Greenville) LLC; (Gas Turbines); Greenville, South Carolina",
-  "type": "Notice"
- },
  "2025-12778": {
   "agency_names": "Labor Department; Occupational Safety and Health Administration",
   "document_number": "2025-12778",
@@ -798,5 +790,13 @@
   "publication_date": "2026-09-28",
   "title": "National Emission Standards for Hazardous Air Pollutants for Gasoline Distribution Facilities and Standards of Performance for Bulk Gasoline Terminals Reconsideration",
   "type": "Proposed Rule"
+ },
+ "2026-19964": {
+  "agency_names": "Transportation Department; National Highway Traffic Safety Administration",
+  "document_number": "2026-19964",
+  "html_url": "https://www.federalregister.gov/documents/2026/09/30/2026-19964/the-safer-affordable-fuel-efficient-safe-vehicles-rule-iii-for-model-years-2022-to-2031-passenger",
+  "publication_date": "2026-09-30",
+  "title": "The Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule III for Model Years 2022 to 2031 Passenger Cars and Light Trucks",
+  "type": "Rule"
  }
 }
