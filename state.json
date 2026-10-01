@@ -1,12 +1,4 @@
 {
- "2025-12778": {
-  "agency_names": "Labor Department; Occupational Safety and Health Administration",
-  "document_number": "2025-12778",
-  "html_url": "https://www.federalregister.gov/documents/2025/07/09/2025-12778/tuv-sud-america-inc-application-for-expansion-of-recognition-and-proposed-modification-to-the-nrtl",
-  "publication_date": "2025-07-09",
-  "title": "TUV SUD America, Inc.: Application for Expansion of Recognition and Proposed Modification to the NRTL Program's List of Appropriate Test Standards",
-  "type": "Notice"
- },
  "2025-13488": {
   "agency_names": "Interior Department; Fish and Wildlife Service",
   "document_number": "2025-13488",
@@ -797,6 +789,14 @@
   "html_url": "https://www.federalregister.gov/documents/2026/09/30/2026-19964/the-safer-affordable-fuel-efficient-safe-vehicles-rule-iii-for-model-years-2022-to-2031-passenger",
   "publication_date": "2026-09-30",
   "title": "The Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule III for Model Years 2022 to 2031 Passenger Cars and Light Trucks",
+  "type": "Rule"
+ },
+ "2026-20178": {
+  "agency_names": "Agriculture Department; Rural Business-Cooperative Service",
+  "document_number": "2026-20178",
+  "html_url": "https://www.federalregister.gov/documents/2026/10/01/2026-20178/unleashing-american-energy-and-economic-prosperity-rural-energy-for-america-program-reap",
+  "publication_date": "2026-10-01",
+  "title": "Unleashing American Energy and Economic Prosperity; Rural Energy for America Program (REAP)",
   "type": "Rule"
  }
 }
