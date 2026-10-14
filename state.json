@@ -1,12 +1,4 @@
 {
- "2025-13488": {
-  "agency_names": "Interior Department; Fish and Wildlife Service",
-  "document_number": "2025-13488",
-  "html_url": "https://www.federalregister.gov/documents/2025/07/18/2025-13488/marine-mammals-proposed-incidental-harassment-authorization-for-the-southern-beaufort-sea-stock-of",
-  "publication_date": "2025-07-18",
-  "title": "Marine Mammals; Proposed Incidental Harassment Authorization for the Southern Beaufort Sea Stock of Polar Bears and Pacific Walruses in West Harrison Bay, AK; Draft Environmental Assessment",
-  "type": "Notice"
- },
  "2025-13489": {
   "agency_names": "Agriculture Department; Rural Utilities Service",
   "document_number": "2025-13489",
@@ -797,6 +789,14 @@
   "html_url": "https://www.federalregister.gov/documents/2026/10/01/2026-20178/unleashing-american-energy-and-economic-prosperity-rural-energy-for-america-program-reap",
   "publication_date": "2026-10-01",
   "title": "Unleashing American Energy and Economic Prosperity; Rural Energy for America Program (REAP)",
+  "type": "Rule"
+ },
+ "2026-21030": {
+  "agency_names": "Nuclear Regulatory Commission",
+  "document_number": "2026-21030",
+  "html_url": "https://www.federalregister.gov/documents/2026/10/14/2026-21030/ap1000-design-certification-renewal",
+  "publication_date": "2026-10-14",
+  "title": "AP1000 Design Certification Renewal",
   "type": "Rule"
  }
 }
