@@ -1,12 +1,4 @@
 {
- "2025-13489": {
-  "agency_names": "Agriculture Department; Rural Utilities Service",
-  "document_number": "2025-13489",
-  "html_url": "https://www.federalregister.gov/documents/2025/07/18/2025-13489/accounting-requirements-for-rus-electric-borrowers",
-  "publication_date": "2025-07-18",
-  "title": "Accounting Requirements for RUS Electric Borrowers",
-  "type": "Rule"
- },
  "2025-13511": {
   "agency_names": "Health and Human Services Department; Centers for Disease Control and Prevention",
   "document_number": "2025-13511",
@@ -797,6 +789,14 @@
   "html_url": "https://www.federalregister.gov/documents/2026/10/14/2026-21030/ap1000-design-certification-renewal",
   "publication_date": "2026-10-14",
   "title": "AP1000 Design Certification Renewal",
+  "type": "Rule"
+ },
+ "2026-21371": {
+  "agency_names": "Interior Department; Fish and Wildlife Service",
+  "document_number": "2026-21371",
+  "html_url": "https://www.federalregister.gov/documents/2026/10/19/2026-21371/marine-mammals-incidental-take-of-polar-bears-and-pacific-walruses-in-the-beaufort-sea-and-north",
+  "publication_date": "2026-10-19",
+  "title": "Marine Mammals; Incidental Take of Polar Bears and Pacific Walruses in the Beaufort Sea and North Slope of Alaska",
   "type": "Rule"
  }
 }
