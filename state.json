@@ -1,12 +1,4 @@
 {
- "2025-13511": {
-  "agency_names": "Health and Human Services Department; Centers for Disease Control and Prevention",
-  "document_number": "2025-13511",
-  "html_url": "https://www.federalregister.gov/documents/2025/07/18/2025-13511/proposed-data-collection-submitted-for-public-comment-and-recommendations",
-  "publication_date": "2025-07-18",
-  "title": "Proposed Data Collection Submitted for Public Comment and Recommendations",
-  "type": "Notice"
- },
  "2025-14312": {
   "agency_names": "Commerce Department; Foreign-Trade Zones Board",
   "document_number": "2025-14312",
@@ -798,5 +790,13 @@
   "publication_date": "2026-10-19",
   "title": "Marine Mammals; Incidental Take of Polar Bears and Pacific Walruses in the Beaufort Sea and North Slope of Alaska",
   "type": "Rule"
+ },
+ "2026-21443": {
+  "agency_names": "Energy Department; Federal Energy Regulatory Commission",
+  "document_number": "2026-21443",
+  "html_url": "https://www.federalregister.gov/documents/2026/10/20/2026-21443/authorizations-for-certain-activities-at-liquefied-natural-gas-plants",
+  "publication_date": "2026-10-20",
+  "title": "Authorizations for Certain Activities at Liquefied Natural Gas Plants",
+  "type": "Proposed Rule"
  }
 }
