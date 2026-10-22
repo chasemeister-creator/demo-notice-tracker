@@ -1,28 +1,4 @@
 {
- "2025-14312": {
-  "agency_names": "Commerce Department; Foreign-Trade Zones Board",
-  "document_number": "2025-14312",
-  "html_url": "https://www.federalregister.gov/documents/2025/07/29/2025-14312/foreign-trade-zone-ftz-17-notification-of-proposed-production-activity-garmin-international-inc",
-  "publication_date": "2025-07-29",
-  "title": "Foreign-Trade Zone (FTZ) 17, Notification of Proposed Production Activity; Garmin International, Inc.; (Avionics and Auto Products; Marine and Personal GPS Products); Olathe, Kansas",
-  "type": "Notice"
- },
- "2025-14531": {
-  "agency_names": "Environmental Protection Agency",
-  "document_number": "2025-14531",
-  "html_url": "https://www.federalregister.gov/documents/2025/07/31/2025-14531/extension-of-deadlines-in-standards-of-performance-for-new-reconstructed-and-modified-sources-and",
-  "publication_date": "2025-07-31",
-  "title": "Extension of Deadlines in Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review Final Rule",
-  "type": "Rule"
- },
- "2025-14572": {
-  "agency_names": "Environmental Protection Agency",
-  "document_number": "2025-14572",
-  "html_url": "https://www.federalregister.gov/documents/2025/08/01/2025-14572/reconsideration-of-2009-endangerment-finding-and-greenhouse-gas-vehicle-standards",
-  "publication_date": "2025-08-01",
-  "title": "Reconsideration of 2009 Endangerment Finding and Greenhouse Gas Vehicle Standards",
-  "type": "Proposed Rule"
- },
  "2025-15748": {
   "agency_names": "Environmental Protection Agency",
   "document_number": "2025-15748",
@@ -798,5 +774,29 @@
   "publication_date": "2026-10-20",
   "title": "Authorizations for Certain Activities at Liquefied Natural Gas Plants",
   "type": "Proposed Rule"
+ },
+ "2026-21542": {
+  "agency_names": "Commerce Department; Foreign-Trade Zones Board",
+  "document_number": "2026-21542",
+  "html_url": "https://www.federalregister.gov/documents/2026/10/22/2026-21542/foreign-trade-zone-ftz-26-notification-of-proposed-production-activity-pratt-and-whitney-a-division",
+  "publication_date": "2026-10-22",
+  "title": "Foreign-Trade Zone (FTZ) 26, Notification of Proposed Production Activity; Pratt & Whitney, a Division of RTX Corporation; (Aircraft Engines, Engine Modules, and Parts); Midland, Georgia",
+  "type": "Notice"
+ },
+ "2026-21552": {
+  "agency_names": "Commerce Department; Foreign-Trade Zones Board",
+  "document_number": "2026-21552",
+  "html_url": "https://www.federalregister.gov/documents/2026/10/22/2026-21552/foreign-trade-zone-ftz-71-notification-of-proposed-production-activity-pratt-and-whitney-a-division",
+  "publication_date": "2026-10-22",
+  "title": "Foreign-Trade Zone (FTZ) 71, Notification of Proposed Production Activity; Pratt & Whitney, a Division of RTX Corporation; (Aircraft Engines, Engine Modules, and Parts); Middletown, Connecticut",
+  "type": "Notice"
+ },
+ "2026-21561": {
+  "agency_names": "Commerce Department; Foreign-Trade Zones Board",
+  "document_number": "2026-21561",
+  "html_url": "https://www.federalregister.gov/documents/2026/10/22/2026-21561/foreign-trade-zone-ftz-186-notification-of-proposed-production-activity-pratt-and-whitney-a-division",
+  "publication_date": "2026-10-22",
+  "title": "Foreign-Trade Zone (FTZ) 186, Notification of Proposed Production Activity; Pratt & Whitney, a Division of RTX Corporation; (Aircraft Engines, Engine Modules, and Parts); North Berwick, Maine",
+  "type": "Notice"
  }
 }
