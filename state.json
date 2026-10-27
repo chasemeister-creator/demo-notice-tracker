@@ -1,12 +1,4 @@
 {
- "2025-15748": {
-  "agency_names": "Environmental Protection Agency",
-  "document_number": "2025-15748",
-  "html_url": "https://www.federalregister.gov/documents/2025/08/19/2025-15748/air-plan-approval-tennessee-second-planning-period-regional-haze-plan",
-  "publication_date": "2025-08-19",
-  "title": "Air Plan Approval; Tennessee; Second Planning Period Regional Haze Plan",
-  "type": "Proposed Rule"
- },
  "2025-16683": {
   "agency_names": "Labor Department; Occupational Safety and Health Administration",
   "document_number": "2025-16683",
@@ -798,5 +790,13 @@
   "publication_date": "2026-10-22",
   "title": "Foreign-Trade Zone (FTZ) 186, Notification of Proposed Production Activity; Pratt & Whitney, a Division of RTX Corporation; (Aircraft Engines, Engine Modules, and Parts); North Berwick, Maine",
   "type": "Notice"
+ },
+ "2026-21922": {
+  "agency_names": "Transportation Department; Pipeline and Hazardous Materials Safety Administration",
+  "document_number": "2026-21922",
+  "html_url": "https://www.federalregister.gov/documents/2026/10/27/2026-21922/hazardous-materials-harmonization-with-international-standards",
+  "publication_date": "2026-10-27",
+  "title": "Hazardous Materials: Harmonization With International Standards",
+  "type": "Proposed Rule"
  }
 }
