@@ -1,20 +1,4 @@
 {
- "2025-16683": {
-  "agency_names": "Labor Department; Occupational Safety and Health Administration",
-  "document_number": "2025-16683",
-  "html_url": "https://www.federalregister.gov/documents/2025/09/02/2025-16683/tuv-sud-america-inc-grant-of-expansion-of-recognition-and-modification-to-the-nrtl-programs-list-of",
-  "publication_date": "2025-09-02",
-  "title": "TUV SUD America, Inc.: Grant of Expansion of Recognition and Modification to the NRTL Program's List of Appropriate Test Standards",
-  "type": "Notice"
- },
- "2025-17041": {
-  "agency_names": "Environmental Protection Agency",
-  "document_number": "2025-17041",
-  "html_url": "https://www.federalregister.gov/documents/2025/09/05/2025-17041/air-plan-approval-arkansas-regional-haze-state-implementation-plan-for-the-second-implementation",
-  "publication_date": "2025-09-05",
-  "title": "Air Plan Approval; Arkansas; Regional Haze State Implementation Plan for the Second Implementation Period",
-  "type": "Proposed Rule"
- },
  "2025-17055": {
   "agency_names": "Environmental Protection Agency",
   "document_number": "2025-17055",
@@ -797,6 +781,22 @@
   "html_url": "https://www.federalregister.gov/documents/2026/10/27/2026-21922/hazardous-materials-harmonization-with-international-standards",
   "publication_date": "2026-10-27",
   "title": "Hazardous Materials: Harmonization With International Standards",
+  "type": "Proposed Rule"
+ },
+ "2026-22063": {
+  "agency_names": "Environmental Protection Agency",
+  "document_number": "2026-22063",
+  "html_url": "https://www.federalregister.gov/documents/2026/10/29/2026-22063/air-plan-approval-and-air-quality-designation-tn-attainment-plan-and-redesignation-of-the-sullivan",
+  "publication_date": "2026-10-29",
+  "title": "Air Plan Approval and Air Quality Designation; TN; Attainment Plan and Redesignation of the Sullivan County Nonattainment Area for the 2010 1-Hour Primary SO2 NAAQS",
+  "type": "Proposed Rule"
+ },
+ "2026-22082": {
+  "agency_names": "Environmental Protection Agency",
+  "document_number": "2026-22082",
+  "html_url": "https://www.federalregister.gov/documents/2026/10/29/2026-22082/additional-reconsideration-standards-of-performance-for-new-reconstructed-and-modified-sources-and",
+  "publication_date": "2026-10-29",
+  "title": "Additional Reconsideration Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review",
   "type": "Proposed Rule"
  }
 }
