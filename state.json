@@ -1,12 +1,4 @@
 {
- "2025-17055": {
-  "agency_names": "Environmental Protection Agency",
-  "document_number": "2025-17055",
-  "html_url": "https://www.federalregister.gov/documents/2025/09/05/2025-17055/air-plan-approval-or-lane-county-permitting-rule-revisions",
-  "publication_date": "2025-09-05",
-  "title": "Air Plan Approval; OR; Lane County Permitting Rule Revisions",
-  "type": "Proposed Rule"
- },
  "2025-17227": {
   "agency_names": "Energy Department",
   "document_number": "2025-17227",
@@ -797,6 +789,14 @@
   "html_url": "https://www.federalregister.gov/documents/2026/10/29/2026-22082/additional-reconsideration-standards-of-performance-for-new-reconstructed-and-modified-sources-and",
   "publication_date": "2026-10-29",
   "title": "Additional Reconsideration Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review",
+  "type": "Proposed Rule"
+ },
+ "2026-22396": {
+  "agency_names": "Transportation Department; Pipeline and Hazardous Materials Safety Administration",
+  "document_number": "2026-22396",
+  "html_url": "https://www.federalregister.gov/documents/2026/11/03/2026-22396/pipeline-safety-amendments-to-liquefied-natural-gas-facilities",
+  "publication_date": "2026-11-03",
+  "title": "Pipeline Safety: Amendments to Liquefied Natural Gas Facilities",
   "type": "Proposed Rule"
  }
 }
