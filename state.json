@@ -1,12 +1,4 @@
 {
- "2025-17948": {
-  "agency_names": "Environmental Protection Agency",
-  "document_number": "2025-17948",
-  "html_url": "https://www.federalregister.gov/documents/2025/09/17/2025-17948/trichloroethylene-regulation-under-the-toxic-substances-control-act-tsca-compliance-date-extension",
-  "publication_date": "2025-09-17",
-  "title": "Trichloroethylene; Regulation Under the Toxic Substances Control Act (TSCA); Compliance Date Extension",
-  "type": "Rule"
- },
  "2025-18660": {
   "agency_names": "Commerce Department; International Trade Administration; Trade Representative, Office of United States",
   "document_number": "2025-18660",
@@ -798,5 +790,13 @@
   "publication_date": "2026-11-09",
   "title": "National Emission Standards for Hazardous Air Pollutants: Polyvinyl Chloride and Copolymer Production Reconsideration; New Major Source Process Wastewater Standards",
   "type": "Rule"
+ },
+ "2026-22812": {
+  "agency_names": "Health and Human Services Department; Centers for Medicare & Medicaid Services",
+  "document_number": "2026-22812",
+  "html_url": "https://www.federalregister.gov/documents/2026/11/10/2026-22812/medicare-and-medicaid-programs-cutting-administrative-requirements-for-excellence-in-patient-care",
+  "publication_date": "2026-11-10",
+  "title": "Medicare and Medicaid Programs; Cutting Administrative Requirements for Excellence in Patient Care",
+  "type": "Proposed Rule"
  }
 }
