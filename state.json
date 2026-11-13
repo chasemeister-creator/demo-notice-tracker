@@ -1,12 +1,4 @@
 {
- "2025-18660": {
-  "agency_names": "Commerce Department; International Trade Administration; Trade Representative, Office of United States",
-  "document_number": "2025-18660",
-  "html_url": "https://www.federalregister.gov/documents/2025/09/25/2025-18660/implementing-certain-tariff-related-elements-of-the-us-eu-framework-on-an-agreement-on-reciprocal",
-  "publication_date": "2025-09-25",
-  "title": "Implementing Certain Tariff-Related Elements of the U.S.-EU Framework on an Agreement on Reciprocal, Fair, and Balanced Trade",
-  "type": "Notice"
- },
  "2025-19268": {
   "agency_names": "Environmental Protection Agency",
   "document_number": "2025-19268",
@@ -797,6 +789,14 @@
   "html_url": "https://www.federalregister.gov/documents/2026/11/10/2026-22812/medicare-and-medicaid-programs-cutting-administrative-requirements-for-excellence-in-patient-care",
   "publication_date": "2026-11-10",
   "title": "Medicare and Medicaid Programs; Cutting Administrative Requirements for Excellence in Patient Care",
+  "type": "Proposed Rule"
+ },
+ "2026-23124": {
+  "agency_names": "Environmental Protection Agency",
+  "document_number": "2026-23124",
+  "html_url": "https://www.federalregister.gov/documents/2026/11/13/2026-23124/air-plan-approval-oregon-department-of-environmental-quality-emission-standards-and-controls-for",
+  "publication_date": "2026-11-13",
+  "title": "Air Plan Approval; Oregon Department of Environmental Quality; Emission Standards and Controls for Sources Emitting Gasoline Vapors",
   "type": "Proposed Rule"
  }
 }
